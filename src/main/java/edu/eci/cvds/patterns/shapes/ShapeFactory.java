@@ -1,5 +1,5 @@
-package edu.eci.cvds.patterns.shape;
-import edu.eci.cvds.patterns.shape.concrete.*;
+package edu.eci.cvds.patterns.shapes;
+import edu.eci.cvds.patterns.shapes.concrete.*;
 public class ShapeFactory {
 
 
