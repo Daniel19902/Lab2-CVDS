@@ -70,11 +70,13 @@ El repositorio principal de Maven se encuentra en -[repositorio principal de Mav
 -[referencia 4](https://snmb-desarrollo.readthedocs.io/en/develop/howtos/maven-deploy.html#:~:text=Un%20repositorio%20Maven%20es%20una,las%20librer%C3%ADas%20de%20uso%20general.)
  
 
+<<<<<<< HEAD
 ## Hacer el esqueleto de la aplicacion
 
 ¿Cuál(es) de las anteriores instrucciones se ejecutan y funcionan correctamente y por qué?
 
-**Sin parametros**: imprime error por que es nesesario un para crear las figuras.
-**Parámetro: qwerty**: imprime error por que no es una figura en la enumeracion.
-**Parámetro: pentagon**: imprime error por que esta mal escrita la palabra para poder crear la figura.
+**Sin parametros**: imprime error por que es nesesario un para crear las figuras.\
+**Parámetro: qwerty**: imprime error por que no es una figura en la enumeracion.\
+**Parámetro: pentagon**: imprime error por que esta mal escrita la palabra para poder crear la figura.\
 **Parámetro Hexagon**: inmprime el numero de lados que tiene la figura por que es un fiura de la enumeracion.    
+
