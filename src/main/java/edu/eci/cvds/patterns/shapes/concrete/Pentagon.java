@@ -1,8 +1,8 @@
 package edu.eci.cvds.patterns.shapes.concrete;
-import edu.eci.cvds.patterns.shapes.Shapes;
 
+import edu.eci.cvds.patterns.shapes.Shape;
 
-public class Pentagon implements Shapes{
+public class Pentagon implements Shape {
 
     @Override
     public int getNumberOfEdges() {

@@ -1,9 +1,10 @@
 package edu.eci.cvds.patterns.shapes;
+
 import edu.eci.cvds.patterns.shapes.concrete.*;
+
 public class ShapeFactory {
 
-
-    public static Shapes create(RegularShapeType type) {
+    public static Shape create(RegularShapeType type) {
         switch(type){
             case Triangle:
                 return new Triangle();

@@ -1,7 +1,8 @@
 package edu.eci.cvds.patterns.shapes.concrete;
-import edu.eci.cvds.patterns.shapes.Shapes;
 
-public class Triangle implements Shapes {
+import edu.eci.cvds.patterns.shapes.Shape;
+
+public class Triangle implements Shape {
 
     @Override
     public int getNumberOfEdges() {
